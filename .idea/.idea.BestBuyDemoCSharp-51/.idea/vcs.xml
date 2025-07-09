@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../APIs-and-JSON-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AbstractClassesDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ArraysAndListsProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ArraysAndListsProject/CollectionsMasterApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BankEncapsulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CSS_Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CarLotSimulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CarLotSimulator/CarLotSimulatorApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ChristmasWithTypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Classes-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CollectionsMasterApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ExceptionHandlingExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Factory-Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FactoryPatternDemoCSharp-51" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FizzBuzzChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../HTML_Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../InheritanceExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../InterfaceExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../InterfacesDemoCSharp-51" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Iteration-Statements-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../IterationStatementsProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JavaScript_Functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JavaScript_Selections_Loops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JavaScript_Variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LINQ-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LinqExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Loops-InterationStamentsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LoopsExercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MergeConflictExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Method-Overloading-Exercise-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MethodsExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NewSln" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ORM-and-Dapper-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Operators-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PalindromeExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ProblematicProblem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Selection-Statement-Exercise-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Selection-Statements-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SelectionStatementsLecture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Static-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Syntax-and-Syntax-Sugar-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TacoParser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../UnitTestingExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Variables-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WeeklyChallenges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test1" vcs="Git" />
+  </component>
+</project>
