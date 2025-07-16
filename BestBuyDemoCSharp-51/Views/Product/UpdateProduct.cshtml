@@ -1,0 +1,31 @@
+@model Product
+@* The user can change the Name and Price, but not
+the ProductID, which is sent as a hidden input
+to keep track of which product is being updated.
+It binds to a Product model using @model Product,
+so the form auto-fills with the current product's data.
+When the user clicks "Update Product", the form
+sends a POST request to the UpdateProductToDatabase action.
+This is a common way to build edit forms in ASP.NET Core MVC. *@
+
+
+<h2>Update @Model.Name</h2>
+
+@using (Html.BeginForm("UpdateProductToDatabase", "Product", "Post"))
+{
+    <input asp-for="ProductID" type="hidden" value="@Model.ProductID" />
+    // input is passing in the product id but it will be hidden 
+
+    <label asp-for="Name" class="control-label">Name</label>
+    <input type="text" name="Name" class="form-control" value="@Model.Name" />
+    //class is build in boostraps in css 
+
+    <label asp-for="Price" class="control-label">Price</label>    
+    <input type="number" step="0.01" name="Price" class="form-control" value="@Model.Price" />
+
+    <input type="submit" value="Update Product" class="btn btn-primary" />
+}
+
+
+
+
