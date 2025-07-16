@@ -9,6 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fa4862-5d3a-4e23-b4f9-419eb2b2315d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BestBuyDemoCSharp-51/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BestBuyDemoCSharp-51/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BestBuyDemoCSharp-51/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BestBuyDemoCSharp-51/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +120,7 @@
       <workItem from="1752610759315" duration="712000" />
       <workItem from="1752611544005" duration="7374000" />
       <workItem from="1752620170688" duration="413000" />
+      <workItem from="1752626120257" duration="55000" />
     </task>
     <servers />
   </component>
@@ -192,20 +194,6 @@
       <path value="$PROJECT_DIR$/../test1" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/BestBuyDemoCSharp-51/Views/Product/Index.cshtml</url>
-          <line>2</line>
-          <properties isMultiMethodBreakpoint="true">
-            <option name="multiMethodBreakpoint" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
